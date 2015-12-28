@@ -1,0 +1,12 @@
+  The increasing size of datasets in biology has demanded a corresponding increase in the reliance on software to automate tasks that have become impossible to do manually [1]
+Improvements in technology have made creating large biological datasets much easier, so that small facilities can now feasibly do large-scale genomic sequencing or proteomics
+Biology in 2015 may require a researcher to be using a pipette one day and running genome assembly software the next
+As the field changes to where scientists are expected to regularly use bioinformatics tools, the difficulties in sharing academic software are becoming a hindrance to both research and publication.  Bioinformatics software is seen as research output and published as journal articles
+It then follows that a bioinformatics software developer is measured by the same metric as is often used for a biologist studying novel protein mechanisms - the more articles the better
+This has lead to proliferation of bioinformatics software for example, the Wikipedia page for sequence aligners alone lists 64 different implementations.  Perverse incentives have lead to a -lsquofire-and-forget-rsquo approach to software publishing multiple software articles is rewarded whereas there are no direct metrics for maintaining existing software [2]
+The status quo serves authors by allowing them to generate long publication lists, and serves publishers by generating revenue through article processing fees
+The intended audience, the biologists trying to do research, are then left to wade through a corpus of buggy, inconsistent, and confusing tools [3]
+This commentary addresses three prominent symptoms of this system: lack of software availability, difficulty installing software, and divergent formats and interfaces for common tasks. 
+
+END1
+END2
